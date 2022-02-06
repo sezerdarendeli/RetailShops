@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>65c69205-54fe-4b16-8883-c6ac6ae4cb0f</UserSecretsId>
-    <CodeAnalysisRuleSet>..\.sonarlint\retailshopscsharp.ruleset</CodeAnalysisRuleSet>
    
   </PropertyGroup>
 
