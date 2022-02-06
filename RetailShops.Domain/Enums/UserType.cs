@@ -5,7 +5,7 @@ using System.Text;
 
 namespace RetailShops.Domain.Enums
 {
-    public enum UserTypeEnum
+    public enum UserType
     {
         [Description("Customer")]
         Customer = 1,

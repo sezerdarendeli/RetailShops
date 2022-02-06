@@ -63,10 +63,10 @@ namespace RetailShops.API.Controllers
             foreach (var discount in discountsType)
             {
 
-                var userTypeEnumDesc = ((UserTypeEnum)user.UserType).GetDescription();
+                var userTypeEnumDesc = ((UserType)user.UserType).GetDescription();
                 if (discount.DiscountTypeName.Equals(userTypeEnumDesc) && discount.IsPercentage)
                 {
-                    var calculatedDiscountValue = (UserTypeEnum)user.UserType != UserTypeEnum.Customer || user.CreatedDate > DateTime.Now.AddYears(2);
+                    var calculatedDiscountValue = (UserType)user.UserType != UserType.Customer || user.CreatedDate > DateTime.Now.AddYears(2);
 
                     if (calculatedDiscountValue)
                     {

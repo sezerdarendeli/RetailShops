@@ -18,21 +18,21 @@ namespace RetailShops.Data.ConfigurationData
                {
                    Id = 1,
                    InvoiceSerialNumber = "A0001",
-                   UserId = (int)UserTypeEnum.Customer,
+                   UserId = (int)UserType.Customer,
                    Total = 1000,
                },
                 new InvoicesEntity
                 {
                     Id = 2,
                     InvoiceSerialNumber = "A0002",
-                    UserId = (int)UserTypeEnum.Employee,
+                    UserId = (int)UserType.Employee,
                     Total = 1000,
                 },
                 new InvoicesEntity
                 {
                     Id = 3,
                     InvoiceSerialNumber = "A0003",
-                    UserId = (int)UserTypeEnum.AffiliateStore,
+                    UserId = (int)UserType.AffiliateStore,
                     Total = 1000,
                 }
             ); 

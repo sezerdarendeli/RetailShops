@@ -21,7 +21,7 @@ namespace RetailShops.Data.ConfigurationData
                     LastName = "Darendeli",
                     Email = "sezer.darendeli@gmail.com",
                     PhoneNumber = "055533322",
-                    UserType = (int)UserTypeEnum.Customer,
+                    UserType = (int)UserType.Customer,
                     CreatedDate = DateTime.Now
                 },
                 new UserEntity
@@ -31,7 +31,7 @@ namespace RetailShops.Data.ConfigurationData
                     LastName = "Johnson",
                     Email = "simith.johnson@gmail.com",
                     PhoneNumber = "055533322",
-                    UserType = (int)UserTypeEnum.AffiliateStore,
+                    UserType = (int)UserType.AffiliateStore,
                     CreatedDate = DateTime.Now
                 },
                 new UserEntity
@@ -41,7 +41,7 @@ namespace RetailShops.Data.ConfigurationData
                     LastName = "Brown",
                     Email = "williams.brown@gmail.com",
                     PhoneNumber = "055533322",
-                    UserType = (int)UserTypeEnum.Employee,
+                    UserType = (int)UserType.Employee,
                     CreatedDate = DateTime.Now
                 }
             ); 

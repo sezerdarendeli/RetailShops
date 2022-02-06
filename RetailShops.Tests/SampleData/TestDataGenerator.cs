@@ -18,7 +18,7 @@ namespace RetailShops.Tests.SampleData
                 Email = "test@test.com",
                 LastName = "Example User",
                 PhoneNumber = "0533333",
-                UserType = (int)UserTypeEnum.Customer,
+                UserType = (int)UserType.Customer,
                 CreatedDate = System.DateTime.Now,
             }};
 
@@ -56,7 +56,7 @@ namespace RetailShops.Tests.SampleData
                 Email = "test@test.com",
                 LastName = "Example User",
                 PhoneNumber = "0533333",
-                UserType = (int)UserTypeEnum.Customer,
+                UserType = (int)UserType.Customer,
                  CreatedDate=DateTime.Now.AddYears(4),
             },
               DiscountTypeList()
@@ -102,7 +102,7 @@ namespace RetailShops.Tests.SampleData
                 Email = "test@test.com",
                 LastName = "Example User",
                 PhoneNumber = "0533333",
-                UserType = (int)UserTypeEnum.Employee,
+                UserType = (int)UserType.Employee,
                 CreatedDate = System.DateTime.Now,
             },
               DiscountTypeList()
@@ -148,7 +148,7 @@ namespace RetailShops.Tests.SampleData
                 Email = "test@test.com",
                 LastName = "Example User",
                 PhoneNumber = "0533333",
-                UserType = (int)UserTypeEnum.AffiliateStore,
+                UserType = (int)UserType.AffiliateStore,
                 CreatedDate = System.DateTime.Now,
             },
               DiscountTypeList()
