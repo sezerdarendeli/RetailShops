@@ -5,8 +5,4 @@
     <CodeAnalysisRuleSet>..\.sonarlint\retailshopscsharp.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
-  <ItemGroup>
-    <AdditionalFiles Include="..\.sonarlint\retailshops\CSharp\SonarLint.xml" Link="SonarLint.xml" />
-  </ItemGroup>
-
 </Project>

@@ -8,13 +8,10 @@ using System.Threading.Tasks;
 
 namespace RetailShops.API.Controllers
 {
-
-
     [ApiController]
     [Route("api/[controller]/[action]")]
     public class UserController : ControllerBase
     {
-
         private readonly IUserRepository _userRepository;
 
         private readonly IMapper _mapper;

@@ -57,7 +57,8 @@ namespace RetailShops.API.Controllers
             return Ok(invoiceEntity);
         }
 
-        public decimal CalculateDiscount(CreateInvoiceRequest invoiceRequest, decimal invoiceSubtotal, UserResponse user)
+
+        private decimal CalculateDiscount(CreateInvoiceRequest invoiceRequest, decimal invoiceSubtotal, UserResponse user)
         {
             var discountsType = _discountCountRepository.GetAll();
             foreach (var discount in discountsType)

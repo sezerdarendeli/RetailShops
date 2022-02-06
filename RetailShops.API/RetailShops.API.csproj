@@ -40,9 +40,5 @@
     <None Remove="..\.dockerignore" />
   </ItemGroup>
 
-  <ItemGroup>
-    <AdditionalFiles Include="..\.sonarlint\retailshops\CSharp\SonarLint.xml" Link="SonarLint.xml" />
-  </ItemGroup>
-
 
 </Project>
