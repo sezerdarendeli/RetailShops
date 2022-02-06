@@ -22,7 +22,9 @@ namespace RetailShops.Data
         public DbSet<UserEntity> Users { get; set; }
         public DbSet<UserTypeEntity> UserTypes { get; set; }
 
+#pragma warning disable S927 // Parameter names should match base declaration and other partial definitions
         protected override void OnModelCreating(ModelBuilder builder)
+#pragma warning restore S927 // Parameter names should match base declaration and other partial definitions
         {
             builder.ApplyConfiguration(new SeedUserData());
             builder.ApplyConfiguration(new SeedUserTypeData());
