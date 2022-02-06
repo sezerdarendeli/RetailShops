@@ -129,7 +129,7 @@ RetailShops uses a number of Libraries, structer and patterns:
 
 ## Project Documentation
 >UML Class Diagram
-![UML Class Diagram](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/ef121575c8232a3173c99712b23811af78547d14/UMLClass.png)
+![UML Class Diagram](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/UMLClass.png)
 
 
 ## License
