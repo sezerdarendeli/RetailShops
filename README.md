@@ -49,7 +49,8 @@ RetailShops uses a number of Libraries, structer and patterns:
 - [SonarQube] - Code quaility for local in Docker SonarQube platform created.
 - [SonarLint]- For used Code quailty in Visual Studio
 
-##Unit Test Covarage Results
+
+## Unit Test Covarage Results
 ![Unit Test Covarage Results](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/unittestcovarage.PNG)
 
 ## Project Documentation
