@@ -1,0 +1,12 @@
+Q
+HC:\Project\RetailShops\RetailShops.Domain\Entities\DiscountTypeEntity.csutf-8R
+IC:\Project\RetailShops\RetailShops.Domain\Entities\InvoiceDetailEntity.csutf-8M
+DC:\Project\RetailShops\RetailShops.Domain\Entities\InvoicesEntity.csutf-8I
+@C:\Project\RetailShops\RetailShops.Domain\Entities\UserEntity.csutf-8M
+DC:\Project\RetailShops\RetailShops.Domain\Entities\UserTypeEntity.csutf-8@
+7C:\Project\RetailShops\RetailShops.Domain\EntityBase.csutf-8L
+CC:\Project\RetailShops\RetailShops.Domain\Enums\DiscountTypeEnum.csutf-8H
+?C:\Project\RetailShops\RetailShops.Domain\Enums\UserTypeEnum.csutf-8=
+4C:\Project\RetailShops\RetailShops.Domain\IEntity.csutf-8{
+pC:\Project\RetailShops\RetailShops.Domain\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8o
+dC:\Project\RetailShops\RetailShops.Domain\obj\Debug\netcoreapp3.1\RetailShops.Domain.AssemblyInfo.csutf-8

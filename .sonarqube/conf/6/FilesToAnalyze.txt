@@ -1,0 +1,13 @@
+﻿C:\Project\RetailShops\RetailShops.API\Controllers\DiscountController.cs
+C:\Project\RetailShops\RetailShops.API\Controllers\InvoiceController.cs
+C:\Project\RetailShops\RetailShops.API\Controllers\UserController.cs
+C:\Project\RetailShops\RetailShops.API\MappingProfile.cs
+C:\Project\RetailShops\RetailShops.API\Program.cs
+C:\Project\RetailShops\RetailShops.API\Startup.cs
+C:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\RetailShops.API.AssemblyInfo.cs
+C:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\RetailShops.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\RetailShops\RetailShops.API\appsettings.Development.json
+C:\Project\RetailShops\RetailShops.API\appsettings.json
+C:\Project\RetailShops\RetailShops.API\libman.json
+C:\Project\RetailShops\RetailShops.API\Properties\launchSettings.json

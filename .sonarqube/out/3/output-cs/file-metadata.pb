@@ -1,0 +1,12 @@
+Z
+QC:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedDiscountTypeData.csutf-8U
+LC:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedInvoiceData.csutf-8[
+RC:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedInvoiceDetailData.csutf-8R
+IC:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedUserData.csutf-8V
+MC:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedUserTypeData.csutf-8P
+GC:\Project\RetailShops\RetailShops.Data\Context\ApplicationContextDb.csutf-8U
+LC:\Project\RetailShops\RetailShops.Data\Migrations\20220205161525_Initial.csutf-8`
+UC:\Project\RetailShops\RetailShops.Data\Migrations\20220205161525_Initial.Designer.csutf-8b
+WC:\Project\RetailShops\RetailShops.Data\Migrations\ApplicationContextDbModelSnapshot.csutf-8y
+nC:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8k
+`C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.AssemblyInfo.csutf-8

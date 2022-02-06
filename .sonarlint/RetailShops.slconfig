@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "RetailShops",
+  "ProjectName": "RetailShops",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AX7Oy6wv1YfkcDlmL2su",
+      "ProfileTimestamp": "2022-02-06T11:29:21Z"
+    }
+  }
+}

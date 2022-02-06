@@ -1,0 +1,9 @@
+﻿C:\Project\RetailShops\RetailShops.Domain\Entities\DiscountTypeEntity.cs
+C:\Project\RetailShops\RetailShops.Domain\Entities\InvoiceDetailEntity.cs
+C:\Project\RetailShops\RetailShops.Domain\Entities\InvoicesEntity.cs
+C:\Project\RetailShops\RetailShops.Domain\Entities\UserEntity.cs
+C:\Project\RetailShops\RetailShops.Domain\Entities\UserTypeEntity.cs
+C:\Project\RetailShops\RetailShops.Domain\EntityBase.cs
+C:\Project\RetailShops\RetailShops.Domain\Enums\DiscountTypeEnum.cs
+C:\Project\RetailShops\RetailShops.Domain\Enums\UserTypeEnum.cs
+C:\Project\RetailShops\RetailShops.Domain\IEntity.cs

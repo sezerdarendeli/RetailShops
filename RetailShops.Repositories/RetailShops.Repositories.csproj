@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <CodeAnalysisRuleSet>..\.sonarlint\retailshopscsharp.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="..\.sonarlint\retailshops\CSharp\SonarLint.xml" Link="SonarLint.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RetailShops.Data\RetailShops.Data.csproj" />
+    <ProjectReference Include="..\RetailShops.Domain.Shared\RetailShops.Domain.Shared.csproj" />
+    <ProjectReference Include="..\RetailShops.Domain\RetailShops.Domain.csproj" />
+    <ProjectReference Include="..\RetailShops.Infrastructure\RetailShops.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+Q
+HC:\Project\RetailShops\RetailShops.API\Controllers\DiscountController.csutf-8P
+GC:\Project\RetailShops\RetailShops.API\Controllers\InvoiceController.csutf-8M
+DC:\Project\RetailShops\RetailShops.API\Controllers\UserController.csutf-8A
+8C:\Project\RetailShops\RetailShops.API\MappingProfile.csutf-8:
+1C:\Project\RetailShops\RetailShops.API\Program.csutf-8:
+1C:\Project\RetailShops\RetailShops.API\Startup.csutf-8x
+mC:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8i
+^C:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\RetailShops.API.AssemblyInfo.csutf-8|
+qC:\Project\RetailShops\RetailShops.API\obj\Debug\netcoreapp3.1\RetailShops.API.MvcApplicationPartsAssemblyInfo.csutf-8

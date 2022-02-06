@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uF1nZ8k419c3t52StmHM5dBUZSRSftloaxvpK4ghqXrlZx4RweMTJ0MZbfXj6Pg4g9JF3GLpWx0QYMDMpXfNUg==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\RetailShops\\RetailShops.Infrastructure\\RetailShops.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tp.sdarend\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tp.sdarend\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\tp.sdarend\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\tp.sdarend\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

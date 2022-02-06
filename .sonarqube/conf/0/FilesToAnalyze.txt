@@ -1,0 +1,7 @@
+﻿C:\Project\RetailShops\RetailShops.Domain.Shared\CreateDiscountTypeRequest.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\CreateInvoiceDetailRequest.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\CreateInvoiceRequest.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\CreateUserRequest.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\DiscountTypesResponse.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\InvoiceResponse.cs
+C:\Project\RetailShops\RetailShops.Domain.Shared\UserResponse.cs

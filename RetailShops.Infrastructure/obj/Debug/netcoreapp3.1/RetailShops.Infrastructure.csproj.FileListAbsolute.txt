@@ -1,0 +1,10 @@
+C:\Project\RetailShops\RetailShops.Infrastructure\bin\Debug\netcoreapp3.1\RetailShops.Infrastructure.deps.json
+C:\Project\RetailShops\RetailShops.Infrastructure\bin\Debug\netcoreapp3.1\RetailShops.Infrastructure.dll
+C:\Project\RetailShops\RetailShops.Infrastructure\bin\Debug\netcoreapp3.1\RetailShops.Infrastructure.pdb
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.AssemblyInfoInputs.cache
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.AssemblyInfo.cs
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.dll
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.pdb
+C:\Project\RetailShops\RetailShops.Infrastructure\obj\Debug\netcoreapp3.1\RetailShops.Infrastructure.csproj.AssemblyReference.cache

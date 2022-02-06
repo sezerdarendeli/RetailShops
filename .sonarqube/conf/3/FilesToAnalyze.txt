@@ -1,0 +1,9 @@
+﻿C:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedDiscountTypeData.cs
+C:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedInvoiceData.cs
+C:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedInvoiceDetailData.cs
+C:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedUserData.cs
+C:\Project\RetailShops\RetailShops.Data\ConfigurationData\SeedUserTypeData.cs
+C:\Project\RetailShops\RetailShops.Data\Context\ApplicationContextDb.cs
+C:\Project\RetailShops\RetailShops.Data\Migrations\20220205161525_Initial.cs
+C:\Project\RetailShops\RetailShops.Data\Migrations\20220205161525_Initial.Designer.cs
+C:\Project\RetailShops\RetailShops.Data\Migrations\ApplicationContextDbModelSnapshot.cs
