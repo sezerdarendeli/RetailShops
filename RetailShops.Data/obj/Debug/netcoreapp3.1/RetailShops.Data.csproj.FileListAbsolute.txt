@@ -10,7 +10,7 @@ C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.AssemblyInfoInputs.cache
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.AssemblyInfo.cs
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.csproj.CoreCompileInputs.cache
+C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.csproj.CopyComplete
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.dll
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.pdb
 C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.genruntimeconfig.cache
-C:\Project\RetailShops\RetailShops.Data\obj\Debug\netcoreapp3.1\RetailShops.Data.csproj.CopyComplete

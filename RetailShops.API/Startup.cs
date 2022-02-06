@@ -42,7 +42,7 @@ namespace RetailShops.API
                 mc.AddProfile(new MappingProfile());
             });
 
-            IMapper mapper = mapperConfig.CreateMapper();
+            mapperConfig.CreateMapper();
 
             services.AddSwaggerGen(c =>
             {

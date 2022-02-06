@@ -1,9 +1,0 @@
-A
-8C:\Project\RetailShops\RetailShops.Tests\InvoiceTests.csutf-8C
-:C:\Project\RetailShops\RetailShops.Tests\MappingProfile.csutf-8Q
-HC:\Project\RetailShops\RetailShops.Tests\SampleData\TestDataGenerator.csutf-8<
-3C:\Project\RetailShops\RetailShops.Tests\Startup.csutf-8>
-5C:\Project\RetailShops\RetailShops.Tests\UserTests.csutf-8‚
-wC:\Users\tp.sdarend\.nuget\packages\microsoft.net.test.sdk\16.9.4\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.csutf-8z
-oC:\Project\RetailShops\RetailShops.Tests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8m
-bC:\Project\RetailShops\RetailShops.Tests\obj\Debug\netcoreapp3.1\RetailShops.Tests.AssemblyInfo.csutf-8
