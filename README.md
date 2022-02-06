@@ -1,6 +1,6 @@
 [![Build](https://github.com/sezerdarendeli/RetailShops/actions/workflows/build.yml/badge.svg)](https://github.com/sezerdarendeli/RetailShops/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sezerdarendeli_RetailShops&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sezerdarendeli_RetailShops)
-# RetailShops  
+# RetailShops 
 It is a project that provides RestFull api services developed with .Net Core, which calculates the discount of the chain store.
 
 ## Features
@@ -49,9 +49,15 @@ RetailShops uses a number of Libraries, structer and patterns:
 - [SonarQube] - Code quaility for local in Docker SonarQube platform created.
 - [SonarLint]- For used Code quailty in Visual Studio
 
+
+## Unit Test Covarage Results
+![Unit Test Covarage Results](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/unittestcovarage.PNG)
+
 ## Project Documentation
 >UML Class Diagram
-![UML Class Diagram](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/main/UMLClass.png)
+![UML Class Diagram](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/UMLClass.png)
+
+![Swagger UI](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/swagger.PNG)
 
 
 ## License
