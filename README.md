@@ -1,6 +1,6 @@
 [![Build](https://github.com/sezerdarendeli/RetailShops/actions/workflows/build.yml/badge.svg)](https://github.com/sezerdarendeli/RetailShops/actions/workflows/build.yml)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sezerdarendeli_RetailShops&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sezerdarendeli_RetailShops)
-# RetailShops 
+# RetailShops  
 It is a project that provides RestFull api services developed with .Net Core, which calculates the discount of the chain store.
 
 ## Features
