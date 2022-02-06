@@ -5,28 +5,29 @@ VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B99C3F16-7921-4117-8ADF-C4C427193EE2}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.API", "RetailShops.API\RetailShops.API.csproj", "{FFDDEC63-0E21-4509-8233-F67AB4395270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.API", "RetailShops.API\RetailShops.API.csproj", "{FFDDEC63-0E21-4509-8233-F67AB4395270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Domain", "RetailShops.Domain\RetailShops.Domain.csproj", "{CB80D94B-B9DF-4530-9FDF-6660AAEC8059}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Domain", "RetailShops.Domain\RetailShops.Domain.csproj", "{CB80D94B-B9DF-4530-9FDF-6660AAEC8059}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B587A269-8CF4-447C-B00E-44071055F4A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4C157BBB-B947-407F-8FCC-BDD3AEA00A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Data", "RetailShops.Data\RetailShops.Data.csproj", "{EFD0B784-254F-45B8-8C2A-053A84D8BE9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Data", "RetailShops.Data\RetailShops.Data.csproj", "{EFD0B784-254F-45B8-8C2A-053A84D8BE9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Infrastructure", "RetailShops.Infrastructure\RetailShops.Infrastructure.csproj", "{04C0A12F-F1FD-478F-BBF0-000E5139367E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Infrastructure", "RetailShops.Infrastructure\RetailShops.Infrastructure.csproj", "{04C0A12F-F1FD-478F-BBF0-000E5139367E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Repositories", "RetailShops.Repositories\RetailShops.Repositories.csproj", "{44FF063D-915A-47AC-83A4-8312C4F7B6E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Repositories", "RetailShops.Repositories\RetailShops.Repositories.csproj", "{44FF063D-915A-47AC-83A4-8312C4F7B6E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.ServiceExtensions", "RetailShops.ServiceExtensions\RetailShops.ServiceExtensions.csproj", "{0DB186A4-9E09-45C2-8ECD-23DEDEC3A196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.ServiceExtensions", "RetailShops.ServiceExtensions\RetailShops.ServiceExtensions.csproj", "{0DB186A4-9E09-45C2-8ECD-23DEDEC3A196}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Domain.Shared", "RetailShops.Domain.Shared\RetailShops.Domain.Shared.csproj", "{F4FD5CF7-552F-4D9B-B272-8A1AB7AA6534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Domain.Shared", "RetailShops.Domain.Shared\RetailShops.Domain.Shared.csproj", "{F4FD5CF7-552F-4D9B-B272-8A1AB7AA6534}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailShops.Tests", "RetailShops.Tests\RetailShops.Tests.csproj", "{BC29EE86-27B7-4C05-98BB-21F99D926D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetailShops.Tests", "RetailShops.Tests\RetailShops.Tests.csproj", "{BC29EE86-27B7-4C05-98BB-21F99D926D69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
