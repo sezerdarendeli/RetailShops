@@ -34,7 +34,7 @@ jobs:
         if: steps.cache-sonar-scanner.outputs.cache-hit != 'true'
         shell: powershell
         run: |
-          dotnet tool install --global dotnet-sonarscanner 
+          dotnet tool install --global dotnet-sonarscanner
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
       - name: Build and analyze
@@ -43,6 +43,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"sezerdarendeli_RetailShops" /o:"sezerdarendeli" /d:sonar.login="8d8845d0c501bf12d65b84d61f0b81d8f9b23a3e" /d:sonar.host.url="https://sonarcloud.io"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"sezerdarendeli_RetailShops" /o:"sezerdarendeli-1" /d:sonar.login="aea9985f83f2fa27dbfadc403d67ece9ec735f2b" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build
-          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="8d8845d0c501bf12d65b84d61f0b81d8f9b23a3e"
+          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="aea9985f83f2fa27dbfadc403d67ece9ec735f2b"
