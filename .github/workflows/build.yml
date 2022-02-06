@@ -44,5 +44,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"sezerdarendeli_RetailShops" /o:"sezerdarendeli-1" /d:sonar.login="8d8845d0c501bf12d65b84d61f0b81d8f9b23a3e" /d:sonar.host.url="https://sonarcloud.io"
-          <insert_your_build_command>
+          dotnet build
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="8d8845d0c501bf12d65b84d61f0b81d8f9b23a3e"
