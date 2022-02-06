@@ -57,6 +57,8 @@ RetailShops uses a number of Libraries, structer and patterns:
 >UML Class Diagram
 ![UML Class Diagram](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/UMLClass.png)
 
+![Swagger UI](https://raw.githubusercontent.com/sezerdarendeli/RetailShops/master/swagger.PNG)
+
 
 ## License
 **Free Software,personal development project
